@@ -1,5 +1,7 @@
 # Explainable Machine Learning for LFP Battery Remaining Useful Life Prediction: Multi-Dataset Evaluation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Code for the paper of the same title (manuscript in preparation). It predicts the remaining useful life (RUL) of
 LiFePO4/graphite cells from per-cycle engineered features, on four public datasets, and asks which features carry
 over between datasets.
