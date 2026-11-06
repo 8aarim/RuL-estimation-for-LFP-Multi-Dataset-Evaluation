@@ -1,0 +1,14 @@
+# versions used for the paper (Python 3.10.7)
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+xgboost==3.1.2
+lightgbm==4.7.0
+catboost==1.2.10
+shap==0.49.1
+h5py
+matplotlib
+statsmodels
+# deep models (steps/s32_tuned_deep.py) only
+torch

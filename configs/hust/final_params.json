@@ -1,0 +1,21 @@
+{
+ "algo": "XGBoost",
+ "params": {
+  "n_estimators": 1500,
+  "max_depth": 6,
+  "learning_rate": 0.01,
+  "subsample": 0.6,
+  "colsample_bytree": 0.5,
+  "reg_lambda": 1,
+  "reg_alpha": 0.5,
+  "min_child_weight": 1
+ },
+ "confirmation": {
+  "default_r2": 0.9275297076505831,
+  "default_sd": 0.024558360595832024,
+  "tuned_r2": 0.930030341779823,
+  "tuned_sd": 0.026300511926477466,
+  "p_paired_t": 0.07486859593425714,
+  "n_folds": 15
+ }
+}

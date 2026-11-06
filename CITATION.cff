@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Explainable Machine Learning for LFP Battery Remaining Useful Life Prediction: Multi-Dataset Evaluation"
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Abdullah Saarim"
+    affiliation: "Universiti Malaya"
+repository-code: "https://github.com/8aarim/RuL-estimation-for-LFP-Multi-Dataset-Evaluation"
+license: MIT
